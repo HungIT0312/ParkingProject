@@ -1,7 +1,5 @@
 # Parking Manage
 
-[![React JS]
-
 ## Features: 
   - Sign In/ Sign Up
   - View list User
@@ -12,7 +10,7 @@
 - React JS
 - API BE (MongoDB)
   
-# Member
+## Member 👨🏻‍🤝‍👨🏻
   - Hung Nguyen
   - Huynh Le Dac Tai
   
